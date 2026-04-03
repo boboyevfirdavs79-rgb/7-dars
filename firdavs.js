@@ -212,7 +212,7 @@
 //     // Log yordamida kelayotgan ma'lumotni tekshiramiz
 //     console.log("KIRAYOTGAN MA'LUMOT:", { speed, fuel });
 
-//     // 1. Ota klassga yuboramiz
+//     
 //     super(speed);
 
 //     // 2. Agar fuel undefined bo'lsa, demak speed massiv bo'lib kelyapti
